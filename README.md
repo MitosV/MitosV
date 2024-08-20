@@ -16,4 +16,5 @@ I am MitosV, a lover of new technologies 🤖, and passionate about learning.
 
 - My OS from scratch: [mythic-os](https://github.com/MitosV/mythic-os)
 
-[![MitosV's Discord](https://lanyard.cnrad.dev/api/696172665890668594)]() [![Github](https://github-readme-stats.vercel.app/api?username=MitosV&count_private=true&show_icons=true&theme=tokyonight)]()
+| [![MitosV's Discord](https://lanyard.cnrad.dev/api/696172665890668594)]() | [![Github](https://github-readme-stats.vercel.app/api?username=MitosV&count_private=true&show_icons=true&theme=tokyonight)]() |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
