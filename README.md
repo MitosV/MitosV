@@ -3,7 +3,7 @@
    <h3 align="center">¡Hello 👋!</h3>
 </p>
 
-I am MitosV, a lover of new technologies 🤖, and passionate about learning.
+I am [MitosV](https://mitosv.me), a lover of new technologies 🤖, and passionate about learning.
 
 #### My favorite languages
 
